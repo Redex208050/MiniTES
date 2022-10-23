@@ -15,6 +15,11 @@ function showMain () {
 	writeConsole("");
 	writeConsole("");
 	writeConsole("");
+	//4 more console clears for log of length 8
+	writeConsole("");
+	writeConsole("");
+	writeConsole("");
+	writeConsole("");
 		rerollWorldMapRNGifMasterGameTimerIsUp();
 		selectAdventureTypeBasedOnCurrentArea();
 		statGrowth();
@@ -1033,6 +1038,11 @@ function unlockAllTabsExceptMain() {
 
 // Write to Console function
 function writeConsole (q) {
+	//Added console 5-8
+	document.getElementById('console8').innerHTML = document.getElementById('console7').innerHTML;
+	document.getElementById('console7').innerHTML = document.getElementById('console6').innerHTML;
+	document.getElementById('console6').innerHTML = document.getElementById('console5').innerHTML;
+	document.getElementById('console5').innerHTML = document.getElementById('console4').innerHTML;
 	document.getElementById('console4').innerHTML = document.getElementById('console3').innerHTML;
 	document.getElementById('console3').innerHTML = document.getElementById('console2').innerHTML;
 	document.getElementById('console2').innerHTML = document.getElementById('console1').innerHTML;
