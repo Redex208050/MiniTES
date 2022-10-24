@@ -140,7 +140,7 @@ var cow = {
 }
 
 
-var map1 = { name: "T1 Vieda Port", 		text: "<br>Vieda Port<br>Recommended Gear: T0"}
+var map1 = { name: "Vieda Port", 			text: "<br>Vieda Port<br>Recommended Gear: T0"}
 var map2 = { name: "Nomad's Guild",			text: "<br>Nomad's Guild<br>Recommended Gear: T1"}
 var map3 = { name: "Crystalspire Forest", 	text: "<br>Crystalspire Forest<br>Recommended Gear: T1"}
 var map4 = { name: "Ardana Residential",	text: "<br>Ardana - Residential District<br>Recommended Gear: T2" }
