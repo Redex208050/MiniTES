@@ -140,30 +140,30 @@ var cow = {
 }
 
 
-var map1 = { name: "T1 Vieda Port", 		text: "Vieda Port<br>Recommended Gear: T0"}
-var map2 = { name: "Nomad's Guild",			text: "Nomad's Guild<br>Recommended Gear: T1"}
-var map3 = { name: "Crystalspire Forest", 	text: "Crystalspire Forest<br>Recommended Gear: T1"}
-var map4 = { name: "Ardana Residential",	text: "Ardana - Residential District<br>Recommended Gear: T2" }
-var map5 = { name: "Ardana Marketplace",	text: "Ardana - Marketplace<br>Recommended Gear: T2" }
-var map6 = { name: "Silverpool Tides",		text: "Silverpool Tides<br>Recommended Gear: T2" }
-var map7 = { name: "Madras", 				text: "Madras<br>Recommended Gear: T2" }
-var map8 = { name: "Elcot",					text: "Elcot<br>Recommended Gear: T0" }
-var map9 = { name: "Crimson Palace",		text: "Crimson Palace<br>Recommended Gear: T2/T3" }
-var map10 = { name: "Ardana Slums",			text: "Ardana - Slums<br>Recommended Gear: T3" }
-var map11 = { name: "Obsidian Grasslands",	text: "Obsidian Grasslands<br>Recommended Gear: T3" }
-var map12 = { name: "Deadmoor Tower",		text: "Deadmoor Tower<br>Recommended Gear: T3" }
-var map13 = { name: "Sea of Hileo",			text: "Sea of Hileo<br>Recommended Gear: T3" }
-var map14 = { name: "Rydale Keep",			text: "Rydale Keep<br>Recommended Gear: T0" }
-var map15 = { name: "Farin's Delve",		text: "Farin's Delve<br>Recommended Gear: T3/T4" }
-var map16 = { name: "Skyview",				text: "Skyview<br>Recommended Gear: T4" }
-var map17 = { name: "Ba'ryst", 				text: "Ba'ryst<br>Recommended Gear: T4" }
-var map18 = { name: "Prismatic Delta",		text: "Prismatic Delta<br>Recommended Gear: T4" }
-var map19 = { name: "Cerrak",				text: "Cerrak<br>Recommended Gear: T4" }
-var map20 = { name: "Burning Cloudsea",		text: "Burning Cloudsea<br>Recommended Gear: T4" }
-var map21 = { name: "Siruvan", 				text: "Siruvan<br>Recommended Gear: T4"}
-var map22 = { name: "Midnight's Reach",		text: "Midnight's Reach<br>Recommended Gear: T5" }
-var map23 = { name: "Forest of Ice",		text: "Forest of Ice<br>Recommended Gear: T7" }
-var map24 = { name: "Undercrypt", 			text: "Undercrypt<br>Recommended Gear: T9" }
+var map1 = { name: "T1 Vieda Port", 		text: "<br>Vieda Port<br>Recommended Gear: T0"}
+var map2 = { name: "Nomad's Guild",			text: "<br>Nomad's Guild<br>Recommended Gear: T1"}
+var map3 = { name: "Crystalspire Forest", 	text: "<br>Crystalspire Forest<br>Recommended Gear: T1"}
+var map4 = { name: "Ardana Residential",	text: "<br>Ardana - Residential District<br>Recommended Gear: T2" }
+var map5 = { name: "Ardana Marketplace",	text: "<br>Ardana - Marketplace<br>Recommended Gear: T2" }
+var map6 = { name: "Silverpool Tides",		text: "<br>Silverpool Tides<br>Recommended Gear: T2" }
+var map7 = { name: "Madras", 				text: "<br>Madras<br>Recommended Gear: T2" }
+var map8 = { name: "Elcot",					text: "<br>Elcot<br>Recommended Gear: T0" }
+var map9 = { name: "Crimson Palace",		text: "<br>Crimson Palace<br>Recommended Gear: T2/T3" }
+var map10 = { name: "Ardana Slums",			text: "<br>Ardana - Slums<br>Recommended Gear: T3" }
+var map11 = { name: "Obsidian Grasslands",	text: "<br>Obsidian Grasslands<br>Recommended Gear: T3" }
+var map12 = { name: "Deadmoor Tower",		text: "<br>Deadmoor Tower<br>Recommended Gear: T3" }
+var map13 = { name: "Sea of Hileo",			text: "<br>Sea of Hileo<br>Recommended Gear: T3" }
+var map14 = { name: "Rydale Keep",			text: "<br>Rydale Keep<br>Recommended Gear: T0" }
+var map15 = { name: "Farin's Delve",		text: "<br>Farin's Delve<br>Recommended Gear: T3/T4" }
+var map16 = { name: "Skyview",				text: "<br>Skyview<br>Recommended Gear: T4" }
+var map17 = { name: "Ba'ryst", 				text: "<br>Ba'ryst<br>Recommended Gear: T4" }
+var map18 = { name: "Prismatic Delta",		text: "<br>Prismatic Delta<br>Recommended Gear: T4" }
+var map19 = { name: "Cerrak",				text: "<br>Cerrak<br>Recommended Gear: T4" }
+var map20 = { name: "Burning Cloudsea",		text: "<br>Burning Cloudsea<br>Recommended Gear: T4" }
+var map21 = { name: "Siruvan", 				text: "<br>Siruvan<br>Recommended Gear: T4"}
+var map22 = { name: "Midnight's Reach",		text: "<br>Midnight's Reach<br>Recommended Gear: T5" }
+var map23 = { name: "Forest of Ice",		text: "<br>Forest of Ice<br>Recommended Gear: T7" }
+var map24 = { name: "Undercrypt", 			text: "<br>Undercrypt<br>Recommended Gear: T9" }
 
 
 
